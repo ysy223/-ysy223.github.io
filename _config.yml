@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : ""
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "og img, title, desc 전부 없을 때"
 description              : ""
 url                      : "https://ysy223.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
